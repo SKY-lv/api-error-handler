@@ -1,0 +1,7 @@
+{
+  "name": "api-error-handler",
+  "version": "1.0.0",
+  "description": "Comprehensive API error handling. 8 categories, 4 retry strategies, error logging.",
+  "main": "api_error_handler.js",
+  "license": "MIT"
+}
